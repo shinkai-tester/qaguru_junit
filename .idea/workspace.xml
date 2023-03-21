@@ -9,10 +9,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shinkai/Plans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shinkai/Plans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shinkai/PostmanWebTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shinkai/PostmanWebTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shinkai/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shinkai/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shinkai/pages/components/PricingComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shinkai/pages/components/PricingComponent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/alexa/IdeaProjects/qa_guru/qaguru_junit",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
