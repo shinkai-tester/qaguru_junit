@@ -1,11 +1,9 @@
 package com.shinkai;
 
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.Selenide;
 import com.shinkai.pages.PostmanMainPage;
 import com.shinkai.pages.SignUpPage;
 import com.shinkai.pages.components.PricingComponent;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 
 public class TestBase {

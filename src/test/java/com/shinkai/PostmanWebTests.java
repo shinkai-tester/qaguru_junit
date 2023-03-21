@@ -62,6 +62,7 @@ public class PostmanWebTests extends TestBase {
                         "Static IP addresses for API testing", "5 custom domains", "100x calls to Postman API", "50 integrations"), "29")
         );
     }
+
     @MethodSource("plansAndFeatures")
     @ParameterizedTest(name = "For plan {0} with price {2}$ following features are available {1}")
     void planFeaturesTest(String plan, List<String> expectedFeatures, String expectedPrice) {
